@@ -4,9 +4,8 @@
 
 - [Catalogo de Procedimientos](#)
 - [1. Instalación](docs/detall.md)
-  - [1.1 Configuración de ecosystem](docs/ecosystem.example.md)
-  - [1.2 Configuración de ecosystem para only developers](docs/ecosystem.example.dev.md)
-- [3. Endpoints de Inicio de Sesión](docs/endpoints/endpoints_login.md)
+  - [1.1 Configuración de ecosystem](docs/ecosystem.ts)
+- [3. Endpoints de Inicio de Sesión](#)
 - [Flujo de Peticiones](docs/flujo_peticiones.md)
 - [Casos de Uso](docs/casos_uso.md)
 - [Anexo](docs/anexos.md)
