@@ -3,7 +3,7 @@
 ## 📚 Índice
 
 - [Catalogo de Procedimientos](#)
-- [1. Instalación](#)
+- [1. Instalación](docs/detall.md)
   - [1.1 Configuración de ecosystem](docs/ecosystem.example.md)
   - [1.2 Configuración de ecosystem para only developers](docs/ecosystem.example.dev.md)
 - [3. Endpoints de Inicio de Sesión](docs/endpoints/endpoints_login.md)
